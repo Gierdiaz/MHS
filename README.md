@@ -34,14 +34,4 @@ MHS (MediHealthServ) is a comprehensive healthcare management system designed to
    - Invoices must be generated based on the services provided during the consultation, avoiding calculation errors or improper charges.
    - Patients should receive clear information about the total amount to be paid and available payment options.
 
-## Installation and Usage
-
-1. Clone the project repository: `git clone https://github.com/your-user/mhs.git`
-2. Install dependencies: `npm install`
-3. Start the server: `npm start`
-4. Access the system through the browser: `http://localhost:3000`
-
-## Contribution
-
-Contributions are welcome! Feel free to propose new features, report issues, or submit pull requests.
 
