@@ -1,4 +1,4 @@
-# MHS - Medical Health Server
+# MHS - Medical Health Service
 
 ## Description
 
