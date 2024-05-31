@@ -1,4 +1,4 @@
-# MHS - MediHealthServ
+# MHS - Medical Health Server
 
 ## Description
 
